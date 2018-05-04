@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  AF Turnout Gear Selector
+//  Web View App
 //
 //  Created by John Cotton on 5/3/18.
-//  Copyright © 2018 John Cotton. All rights reserved.
+// 
 //
 
 import UIKit
